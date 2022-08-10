@@ -1,9 +1,12 @@
 Bài toán max flow:
 https://www.geeksforgeeks.org/max-flow-problem-introduction/
+
 Bài toán min cut:
 https://www.geeksforgeeks.org/minimum-cut-in-a-directed-graph/
+
 Thuật toán fulkerson:
 https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
+
 Thuật toán Dinc:
 https://www.geeksforgeeks.org/dinics-algorithm-maximum-flow/
 
